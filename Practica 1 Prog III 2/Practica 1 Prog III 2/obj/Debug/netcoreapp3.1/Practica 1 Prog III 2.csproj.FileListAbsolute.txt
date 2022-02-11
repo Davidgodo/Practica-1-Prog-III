@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\bin\Debug\netcoreapp3.1\Practica 1 Prog III 2.exe
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\bin\Debug\netcoreapp3.1\Practica 1 Prog III 2.deps.json
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\bin\Debug\netcoreapp3.1\Practica 1 Prog III 2.runtimeconfig.json
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\bin\Debug\netcoreapp3.1\Practica 1 Prog III 2.runtimeconfig.dev.json
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\bin\Debug\netcoreapp3.1\Practica 1 Prog III 2.dll
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\bin\Debug\netcoreapp3.1\Practica 1 Prog III 2.pdb
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.AssemblyInfo.cs
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.dll
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.pdb
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.genruntimeconfig.cache
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 Prog III 2\Practica 1 Prog III 2\obj\Debug\netcoreapp3.1\Practica 1 Prog III 2.csproj.AssemblyReference.cache

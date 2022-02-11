@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.AssemblyInfo.cs
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\bin\Debug\netcoreapp3.1\Practica 1 prog III.exe
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\bin\Debug\netcoreapp3.1\Practica 1 prog III.deps.json
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\bin\Debug\netcoreapp3.1\Practica 1 prog III.runtimeconfig.json
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\bin\Debug\netcoreapp3.1\Practica 1 prog III.runtimeconfig.dev.json
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\bin\Debug\netcoreapp3.1\Practica 1 prog III.dll
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\bin\Debug\netcoreapp3.1\Practica 1 prog III.pdb
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.dll
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.pdb
+C:\Users\David\Documents\Visual Studio 2019\Programas\Practica 1 prog III\Practica 1 prog III\obj\Debug\netcoreapp3.1\Practica 1 prog III.genruntimeconfig.cache
